@@ -1,4 +1,4 @@
-# Conversos-de-Moeda
+# Desafio ONE Conversor
 Conversor de Moeda utilizando a linguagem Java.
 
 As características solicitadas por nosso cliente são as seguintes:
